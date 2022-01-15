@@ -16,7 +16,7 @@
 1. Genesis 1:26–28; Moses 2:26–28; Abraham 4:26–28
 2. What is a key takeaway?  Read [Romans 8:16,17](https://abn.churchofjesuschrist.org/study/scriptures/nt/rom/8.16-17?lang=eng#p16), [Psalms 82:6](https://abn.churchofjesuschrist.org/study/scriptures/ot/ps/82.6?lang=eng#p6)
 
-```
+```text
 Oh My Father
 
 In thy holy habitation,
@@ -32,7 +32,6 @@ Father, Mother, may I meet you
 ...
 Let me come and dwell with you.
 ```
-
 
 ### ![thinking](/docs/assets/images/thinking.png) Thoughts from our Day
 * What are some good things you have found as read the scriptures on the creation?
