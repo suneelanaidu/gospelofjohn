@@ -1,5 +1,3 @@
-## Welcome to Sabre Springs Sunday School
-
 ### Lessons
 {% include navigation.html %}
 
