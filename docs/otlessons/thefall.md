@@ -10,7 +10,7 @@
 3. Genesis 3:5 Serpent, "ye shall be as gods, knowing good from evil"
 4. Genesis 3:6 Eve, "a tree to be desired to make one wise"
 5. Moses 4:12 Eve and Adam partake of the fruit
-6. Moses 5:2 Adam and Eve bear sons and daughters
+6. Moses 5:2  Eve and Adam bear sons and daughters
 7. Moses 5:3 Sons and Daughter divide 2 and 2 in the land
 8. Moses 5:5 Voice of the Lord, "worship the Lord their God" and offer Sacrifice
 9. Moses 5:6 Adam, I know not save the Lord commanded me"
