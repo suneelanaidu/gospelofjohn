@@ -1,1 +1,1 @@
-# Gospel Doctrine lessons by John Mortensen
+## Gospel Doctrine lessons by John Mortensen
