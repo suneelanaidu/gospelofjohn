@@ -16,3 +16,7 @@
 9. Moses 5:6 Adam, I know not save the Lord commanded me"
 10. Moses 5:9 The Son declares, "... thou mayest be redeemed"
 11. Moses 5:11 Eve was glad saying, "... the joy of our redemption"
+
+### What do we learn about Parenting
+```
+```
