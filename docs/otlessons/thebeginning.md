@@ -40,7 +40,7 @@ Let me come and dwell with you.
     * Do you think about how old humanity is?  [Wikipedia Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve)
     * Moses lived in 13th to 15th century BCE.  Books of Moses are thought to be transcribed 6th century BCE, same a time Lehi left Jerusalem.
 * What do the scriptures say about time and genelogy? 
-    * The New Testament provides two accounts of the genealogy of Jesus, one in the Gospel of Matthew and another in the Gospel of Luke.[1] Matthew starts with Abraham, while Luke begins with Adam. The lists are identical between Abraham and David, but differ radically from that point. Matthew has twenty-seven generations from David to Joseph, whereas Luke has forty-two, with almost no overlap between the names on the two lists.⁠ Notably, the two accounts also disagree on who Joseph's father was: Matthew says he was Jacob, while Luke says he was Heli.
+    * The New Testament provides two accounts of the genealogy of Jesus, one in the Gospel of Matthew and another in the Gospel of Luke.[1] Matthew starts with Abraham, while Luke begins with Adam. The lists are identical between Abraham and David, but differ radically from that point. Matthew has twenty-seven generations from David to Joseph, whereas Luke has forty-two, with almost no overlap between the names on the two lists.⁠ Notably, the two accounts also disagree on who Joseph's father was: Matthew says he was Jacob, while Luke says he was Heli.  These books are attributed to 80-120 AD.
     * 2 Peter 3:8 ... one day is with the Lord as a thousand years ...
 
 
