@@ -10,3 +10,6 @@
 5. Discuss the Deltas, What is different about each?  Talk about something disctinct according to the restored Gospel.
 
 ### Thoughts from our Day
+* What are some good things you have found as read the scriptures on the creation?
+* Do you think about how old the earth is?  [National Geographic](https://www.nationalgeographic.org/article/how-did-scientists-calculate-age-earth/)
+* Do you think about [Wikipedia Mitochondrial Eve](Mitochondrial Eve)?
