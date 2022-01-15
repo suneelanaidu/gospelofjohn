@@ -12,7 +12,7 @@
 5. Discuss the Deltas, What is different about each?  Talk about something disctinct according to the restored Gospel.
 6. Come to White Board and Note some key elements
 
-### Classroom read of period 6
+### Classroom read of the creation of Adam and Eve
 1. Genesis 1:26–28; Moses 2:26–28; Abraham 4:26–28
 2. What is a key takeaway?  Read [Romans 8:16,17](https://abn.churchofjesuschrist.org/study/scriptures/nt/rom/8.16-17?lang=eng#p16), (Psalms 82:6)[https://abn.churchofjesuschrist.org/study/scriptures/ot/ps/82.6?lang=eng#p6]
 
