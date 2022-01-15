@@ -37,3 +37,6 @@ Let me come and dwell with you.
 * Peter Bybee spoke of "science being a religion last week", something that is ever changing.  
     * Do you think about how old the earth is?  [National Geographic](https://www.nationalgeographic.org/article/how-did-scientists-calculate-age-earth/)
     * Do you think about how old humanity is?  [Wikipedia Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve)
+* What do the scriptures say about time and genelogy? 
+
+
