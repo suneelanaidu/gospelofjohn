@@ -1,4 +1,4 @@
-## Welcome to Sabre Springs Sunday School
+## Welcome to Sabre Springs Sunday School presented by your Sunday School Teacher 'John'
 
 ### Come Follow Me
 * [2022 Old Testament](https://abn.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022?lang=eng)
@@ -6,12 +6,13 @@
 * [2020 Newt Testament](https://abn.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-book-of-mormon-2020?lang=eng)
 * [2019 New Testament](https://abn.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-new-testament-2019?lang=eng)
 
-### [Family Search](https://www.familysearch.org/)
+### Key Links
+* [The Church of Jesus Chist of Latter Day Saints](https://www.churchofjesuschrist.org/?lang=eng)
+* [Family Search](https://www.familysearch.org/)
 
 
-### Introduction to the Gospels presented by you Sunday School Teacher John
 
-Sabre Springs is a Ward is mostly in the incoporated area of San Diego California, witch some of the members residing in Poway.  The area is considered inland and north from a San Diego perspective.  The ward is part of the Poway Stake of the Church of Jesus Christ of Latter Day Saints.
+[Sabre Springs is a Ward](https://www.churchofjesuschrist.org/comeuntochrist/requests/church/find-a-church/results?location=11310+Spring+Meadow+Ln%2C+San+Diego+CA) is mostly in the incoporated area of San Diego California, however some of the members reside in Poway California.  The area is considered inland and north from a San Diego perspective.  The ward is part of the Poway Stake of the Church of Jesus Christ of Latter Day Saints.
 
 ```markdown
 Syntax highlighted code block
