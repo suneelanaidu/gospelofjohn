@@ -42,6 +42,7 @@ Let me come and dwell with you.
 * What do the scriptures say about time and genelogy? 
     * The New Testament provides two accounts of the genealogy of Jesus, one in the Gospel of Matthew and another in the Gospel of Luke.[1] Matthew starts with Abraham, while Luke begins with Adam. The lists are identical between Abraham and David, but differ radically from that point. Matthew has twenty-seven generations from David to Joseph, whereas Luke has forty-two, with almost no overlap between the names on the two lists.⁠ Notably, the two accounts also disagree on who Joseph's father was: Matthew says he was Jacob, while Luke says he was Heli.  These books are attributed to being transcribed about 80-120 AD.  According to geneologies many biblical pursist say Adam is 6000-10000 years old.
     * 2 Peter 3:8 ... one day is with the Lord as a thousand years ...
+    * Book of Abraham speaks to time periods versus days ... And it came to pass that it was from evening until morning they called night; and it came to pass that it was from morning until evening that they called day; and they numbered the a sixth time. ...
     * There are four accounts in our scriptures [All 4 accounts, including temple](https://abn.churchofjesuschrist.org/study/ensign/1986/01/four-accounts-of-the-creation?lang=eng&adobe_mc_ref=https%3A%2F%2Fwww.churchofjesuschrist.org%2Fstudy%2Fensign%2F1986%2F01%2Ffour-accounts-of-the-creation%3Flang%3Deng&adobe_mc_sdid=SDID%3D2966C9A2BF731193-23273073DDBBB7D8%7CMCORGID%3D66C5485451E56AAE0A490D45%2540AdobeOrg%7CTS%3D1642272237).
 
 
