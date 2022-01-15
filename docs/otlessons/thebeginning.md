@@ -62,3 +62,7 @@ Each of us comes into the world as a unique spirit with a capacity for becoming 
 Brigham Young taught that no revelation is ever received in its fulness.
 ```
 
+```
+Brother of Jared saw similar visions to creation... And when the Lord had said these words, he ashowed unto the brother of Jared ball the inhabitants of the earth which had been, and also all that would be; and he cwithheld them not from his sight, even unto the ends of the earth.
+```
+
