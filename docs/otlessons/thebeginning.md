@@ -46,10 +46,11 @@ Let me come and dwell with you.
     * There are four accounts in our scriptures [All 4 accounts, including temple](https://abn.churchofjesuschrist.org/study/ensign/1986/01/four-accounts-of-the-creation?lang=eng&adobe_mc_ref=https%3A%2F%2Fwww.churchofjesuschrist.org%2Fstudy%2Fensign%2F1986%2F01%2Ffour-accounts-of-the-creation%3Flang%3Deng&adobe_mc_sdid=SDID%3D2966C9A2BF731193-23273073DDBBB7D8%7CMCORGID%3D66C5485451E56AAE0A490D45%2540AdobeOrg%7CTS%3D1642272237).
 
 
-### Revelation continues, restoration continues, everyone will always be left to grapple between Wisdom of the World versus Wisdom of God. But we have a lot the shows us to have faith in continuous revelation and enlightnement.
+### Revelation continues, Restoration continues
+#### Everyone will always be left to grapple between Wisdom of the World versus Wisdom of God. But the Gospel and Faith enable us to obtain continuous and pertinant revelation, even enlightnement if we study and ask.  Here are things that are truths that help me continue in Faith as well as enjoy Science ...
 * Abraham account says ... "“We will go down, for there is space there, and we will take of these materials, and we will make an earth whereon these may dwell.”
 * Adam is Michael, who helped Jehovah in the Creation. Elder Joseph Fielding Smith wrote: “Adam helped to form this earth. He labored with our Savior Jesus Christ. I have a strong … conviction that there were others also who assisted them. Perhaps Noah and Enoch; and why not Joseph Smith, and those who were appointed to be rulers before the earth was formed?” (Doctrines of Salvation, 1:75.)
 * Each of us comes into the world as a unique spirit with a capacity for becoming what our Creator is, in whose image we are formed.
 * Brigham Young taught that no revelation is ever received in its fulness.
-* In the Book of Jared, the Brother of Jared saw similar visions to of the history of ... And when the Lord had said these words, he ashowed unto the brother of Jared ball the inhabitants of the earth which had been, and also all that would be; and he withheld them not from his sight, even unto the ends of the earth.. we are told that many of these visions were sealed.
+* In the Book of Ether, the Brother of Jared saw similar visions of the history of man ... And when the Lord had said these words, he showed unto the brother of Jared all the inhabitants of the earth which had been, and also all that would be; and he withheld them not from his sight, even unto the ends of the earth ... Write these things and seal them up; and I will show them in mine own due time unto the children of men.
 
