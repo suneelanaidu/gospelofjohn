@@ -11,5 +11,6 @@
 
 ### Thoughts from our Day
 * What are some good things you have found as read the scriptures on the creation?
-* Do you think about how old the earth is?  [National Geographic](https://www.nationalgeographic.org/article/how-did-scientists-calculate-age-earth/)
-* Do you think about [Wikipedia Mitochondrial Eve](Mitochondrial Eve)?
+* Peter Bybee spoke of science being a religion last week
+** Do you think about how old the earth is?  [National Geographic](https://www.nationalgeographic.org/article/how-did-scientists-calculate-age-earth/)
+** Do you think about how old humanity is?  [Wikipedia Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve)?
