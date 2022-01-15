@@ -6,7 +6,7 @@
 ### Come Follow Me
 * [2022 Old Testament](https://abn.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022?lang=eng)
 * [2021 Doctrine and Covenants](https://abn.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-doctrine-and-covenants-2021?lang=eng)
-* [2020 Newt Testament](https://abn.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-book-of-mormon-2020?lang=eng)
+* [2020 Book of Mormon](https://abn.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-book-of-mormon-2020?lang=eng)
 * [2019 New Testament](https://abn.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-new-testament-2019?lang=eng)
 
 ### Key Links
