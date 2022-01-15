@@ -17,7 +17,8 @@
 2. What is a key takeaway?  Read [Romans 8:16,17](https://abn.churchofjesuschrist.org/study/scriptures/nt/rom/8.16-17?lang=eng#p16), (Psalms 82:6)[https://abn.churchofjesuschrist.org/study/scriptures/ot/ps/82.6?lang=eng#p6]
 
 ```
-### Oh My Father
+Oh My Father
+
 In thy holy habitation,
 Did my spirit once reside?
 In my first primeval childhood
