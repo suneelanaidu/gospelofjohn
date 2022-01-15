@@ -1,4 +1,4 @@
-## Welcome to Sunday School
+## Welcome to Sabre Springs Sunday School
 
 You can use the [editor on GitHub](https://github.com/jm1021/gospelofjohn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
