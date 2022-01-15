@@ -21,6 +21,14 @@ In thy holy habitation,
 Did my spirit once reside?
 In my first primeval childhood
 Was I nurtured near thy side?
+...
+Tells me I’ve a mother there.
+...
+When I leave this frail existence,
+When I lay this mortal by,
+Father, Mother, may I meet you
+...
+Let me come and dwell with you.
 ```
 
 
