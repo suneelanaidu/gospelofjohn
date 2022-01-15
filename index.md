@@ -1,4 +1,4 @@
-## Welcome to Sabre Springs Sunday School presented by your Sunday School Teacher 'John'
+## Welcome to Sabre Springs Sunday School
 
 ### Come Follow Me
 * [2022 Old Testament](https://abn.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022?lang=eng)
@@ -12,32 +12,8 @@
 
 
 
-[Sabre Springs is a Ward](https://www.churchofjesuschrist.org/comeuntochrist/requests/church/find-a-church/results?location=11310+Spring+Meadow+Ln%2C+San+Diego+CA) is mostly in the incoporated area of San Diego California, however some of the members reside in Poway California.  The area is considered inland and north from a San Diego perspective.  The ward is part of the Poway Stake of the Church of Jesus Christ of Latter Day Saints.
+This site is presented by John who is one of the Gospel Doctrine Teachers in the [Sabre Springs is a Ward](https://www.churchofjesuschrist.org/comeuntochrist/requests/church/find-a-church/results?location=11310+Spring+Meadow+Ln%2C+San+Diego+CA) ward which is part of the Poway Stake of the Church of Jesus Christ of Latter Day Saints.   The congregation has boundaries in the Sabre Springs community which is in incoporated San Diego California, as well as a small portion of the San Diego corridor of Poway.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image](https://www.churchofjesuschrist.org/?lang=eng)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jm1021/gospelofjohn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
