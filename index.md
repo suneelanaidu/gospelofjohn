@@ -6,14 +6,12 @@
 * [2020 Newt Testament](https://abn.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-book-of-mormon-2020?lang=eng)
 * [2019 New Testament](https://abn.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-new-testament-2019?lang=eng)
 
+### [Family Search](https://www.familysearch.org/)
 
-You can use the [editor on GitHub](https://github.com/jm1021/gospelofjohn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction to the Gospels presented by you Sunday School Teacher John
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sabre Springs is a Ward is mostly in the incoporated area of San Diego California, witch some of the members residing in Poway.  The area is considered inland and north from a San Diego perspective.  The ward is part of the Poway Stake of the Church of Jesus Christ of Latter Day Saints.
 
 ```markdown
 Syntax highlighted code block
