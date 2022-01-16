@@ -16,39 +16,41 @@
 1. Genesis 1:26–28; Moses 2:26–28; Abraham 4:26–28
 2. What is a key takeaway?  Read [Romans 8:16,17](https://abn.churchofjesuschrist.org/study/scriptures/nt/rom/8.16-17?lang=eng#p16), [Psalms 82:6](https://abn.churchofjesuschrist.org/study/scriptures/ot/ps/82.6?lang=eng#p6)
 
+<style>
 .boxBorder {
 border: 2px solid #990066;
 padding: 10px;
 outline: #990066 solid 5px;
 outline-offset: 5px;
 }
+</style>
 
 <div class="boxBorder">
 
-Oh My Father
-
-In thy holy habitation,
-
-Did my spirit once reside?
-
-In my first primeval childhood
-
-Was I nurtured near thy side?
-
-...
-
-Tells me I’ve a mother there.
-
-...
-
-
-When I leave this frail existence,
-When I lay this mortal by,
-Father, Mother, may I meet you
-
-...
-
-Let me come and dwell with you.
+  Oh My Father
+  
+  In thy holy habitation,
+  
+  Did my spirit once reside?
+  
+  In my first primeval childhood
+  
+  Was I nurtured near thy side?
+  
+  ...
+  
+  Tells me I’ve a mother there.
+  
+  ...
+  
+  
+  When I leave this frail existence,
+  When I lay this mortal by,
+  Father, Mother, may I meet you
+  
+  ...
+  
+  Let me come and dwell with you.
 
 </div>
 
