@@ -10,7 +10,6 @@
 3. Person 2 read: [Moses 2](https://abn.churchofjesuschrist.org/study/scriptures/pgp/moses/2?lang=eng): 1-5, and 31
 4. Person 3 read: [Abraham 4](https://abn.churchofjesuschrist.org/study/scriptures/pgp/abr/4?lang=eng): 1-5, and 31
 5. Discuss the Deltas, What is different about each?  Talk about something distinct according to the restored Gospel.
-6. Come to White Board and Note some key elements
 
 ### Classroom read of the creation of Adam and Eve
 1. Genesis 1:26–28; Moses 2:26–28; Abraham 4:26–28
