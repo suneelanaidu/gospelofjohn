@@ -18,9 +18,10 @@
 11. Moses 5:11 Eve was glad saying, "... the joy of our redemption"
 
 ### ![thinking](/docs/assets/images/thinking.png) Thoughts from our Day
-* What are some good things you have found as read the scriptures on the creation?
-* Do some Christian churches now believe Adam as figurative?  [Reality of Adam and Eve](https://catholicreview.org/catholic-church-has-evolving-answer-on-reality-of-adam-and-eve/)
-* What does church say about [Evolution?](https://abn.churchofjesuschrist.org/study/new-era/2016/10/to-the-point/what-does-the-church-believe-about-evolution?lang=eng&adobe_mc_ref=https%3A%2F%2Fwww.churchofjesuschrist.org%2Fstudy%2Fnew-era%2F2016%2F10%2Fto-the-point%2Fwhat-does-the-church-believe-about-evolution%3Flang%3Deng&adobe_mc_sdid=SDID%3D7698AF8E81A852D4-3361E03B41C9CDC2%7CMCORGID%3D66C5485451E56AAE0A490D45%2540AdobeOrg%7CTS%3D1642291789)
-* Joseph Smith literal interpretation, God made man and put into it the Spirit of Adam.  Plus, the Spirit and the Body are the Soul of Man [Genesis 2:7](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/2?lang=eng)
-* Michael (Adam) fought against the Dragon (Satan) in the War of Heaven. [Revelations 12:7](https://abn.churchofjesuschrist.org/study/scriptures/nt/rev/12?lang=eng)
-* If you were to see God, you would see him as a man, Adam was a man in his image. [Genesis 1:27](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng)
+* What are some literal and figurative things you have learned as consider the creation of Adam and Eve?
+* Do some Christian churches now believe Adam as solely figurative?  [Reality of Adam and Eve](https://catholicreview.org/catholic-church-has-evolving-answer-on-reality-of-adam-and-eve/)
+* What does church say about [Evolution?](https://abn.churchofjesuschrist.org/study/new-era/2016/10/to-the-point/what-does-the-church-believe-about-evolution?lang=eng&adobe_mc_ref=https%3A%2F%2Fwww.churchofjesuschrist.org%2Fstudy%2Fnew-era%2F2016%2F10%2Fto-the-point%2Fwhat-does-the-church-believe-about-evolution%3Flang%3Deng&adobe_mc_sdid=SDID%3D7698AF8E81A852D4-3361E03B41C9CDC2%7CMCORGID%3D66C5485451E56AAE0A490D45%2540AdobeOrg%7CTS%3D1642291789)  What do you say about evolution when asked?
+* Joseph Smith provided a literal interpretation of the creation... God made man and put into it the Spirit of Adam.  Plus, the Spirit and the Body are the Soul of Man [Genesis 2:7](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/2?lang=eng)
+* Michael (Adam) fought against the Dragon (Satan) in the War of Heaven.  [Revelations 12:7](https://abn.churchofjesuschrist.org/study/scriptures/nt/rev/12?lang=eng)
+* According to Joseph Smith if you were to see God, you would see him as a man, Adam was a man in his image. [Genesis 1:27](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng)
+* Adam is our Priesthood Leader.  All the prophets who have held keys of priesthood authority upon the earth will come to this council to give a report of their work to Adam. [Adam-ondi-Ahman](https://www.churchofjesuschrist.org/manual/primary-5/lesson-30?lang=eng)
