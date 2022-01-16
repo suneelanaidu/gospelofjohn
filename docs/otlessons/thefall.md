@@ -2,7 +2,7 @@
 
 {% include home.html %}
 
-[Genesis 3–4; Moses 4–5](https://abn.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/03?lang=eng)
+[Genesis 3–4; Moses 4–5](https://abn.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/03?lang=eng) >> <a href="docs/otlessons/thebeginning">In the Beginning</a>
 
 ### ![creation](/docs/assets/images/Eve.jpeg) Agency required
 1. Moses 4:1 Satan, "I will redeem all mankind"
