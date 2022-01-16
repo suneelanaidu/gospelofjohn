@@ -18,40 +18,28 @@
 
 <style>
 .boxBorder {
-border: 2px solid #990066;
+border: 2px solid #339900;
 padding: 10px;
-outline: #990066 solid 5px;
+outline: #339900 solid 5px;
 outline-offset: 5px;
 }
 </style>
 
 <div class="boxBorder">
-
-  Oh My Father
-  
+  <B>Oh My Father</B>
+  ...
   In thy holy habitation,
-  
   Did my spirit once reside?
-  
   In my first primeval childhood
-  
   Was I nurtured near thy side?
-  
   ...
-  
   Tells me I’ve a mother there.
-  
   ...
-  
-  
   When I leave this frail existence,
   When I lay this mortal by,
   Father, Mother, may I meet you
-  
   ...
-  
   Let me come and dwell with you.
-
 </div>
 
 ### ![thinking](/docs/assets/images/thinking.png) Thoughts from our Day
