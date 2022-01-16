@@ -48,7 +48,7 @@ outline-offset: 5px;
     * Do you think about how old the earth is?  [National Geographic](https://www.nationalgeographic.org/article/how-did-scientists-calculate-age-earth/)
     * Do you think about how old humanity is?  [Wikipedia Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve)
     * Moses lived in 13th to 15th century BCE.  Books of Moses are thought to be transcribed 6th century BCE, same a time Lehi left Jerusalem.
-* What do the scriptures say about time and genealogy? 
+* What do the scriptures say about time of creation and genealogy of man? 
     * The New Testament provides two accounts of the genealogy of Jesus, one in the Gospel of Matthew and another in the Gospel of Luke... Matthew starts with Abraham, while Luke begins with Adam. The lists are identical between Abraham and David, but differ radically from that point. Matthew has twenty-seven generations from David to Joseph, whereas Luke has forty-two, with almost no overlap between the names on the two lists.⁠ Notably, the two accounts also disagree on who Joseph's father was: Matthew says he was Jacob, while Luke says he was Heli.  These books are attributed to being transcribed about 80-120 AD.  According to genealogies many biblical persist say Adam is 6000-10000 years old.
     * 2 Peter 3:8 ... one day is with the Lord as a thousand years ...
     * Book of Abraham speaks to time periods versus days ... And it came to pass that it was from evening until morning they called night; and it came to pass that it was from morning until evening that they called day; and they numbered the a sixth time. ...
