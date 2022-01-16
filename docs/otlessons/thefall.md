@@ -24,4 +24,4 @@
 * Joseph Smith provided a literal interpretation of the creation... God made man and put into it the Spirit of Adam.  Plus, the Spirit and the Body are the Soul of Man [Genesis 2:7](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/2?lang=eng)
 * Michael (Adam) fought against the Dragon (Satan) in the War of Heaven.  [Revelations 12:7](https://abn.churchofjesuschrist.org/study/scriptures/nt/rev/12?lang=eng)
 * According to Joseph Smith if you were to see God, you would see him as a man, Adam was a man in his image. [Genesis 1:27](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng)
-* Adam is our Priesthood Leader.  All the prophets who have held keys of priesthood authority upon the earth will come to this council to give a report of their work to Adam. [Adam-ondi-Ahman](https://www.churchofjesuschrist.org/manual/primary-5/lesson-30?lang=eng)
+* Adam is our Priesthood Leader.  All the prophets who have held keys of priesthood authority upon the earth will come to Adam-ondi-Ahman council to give a report of their work to Adam. [Adam-ondi-Ahman](https://www.churchofjesuschrist.org/manual/primary-5/lesson-30?lang=eng)
