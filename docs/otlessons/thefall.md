@@ -17,7 +17,7 @@
 10. Moses 5:9 The Son declares, "... thou mayest be redeemed"
 11. Moses 5:11 Eve was glad saying, "... the joy of our redemption"
 
-### ![thinking](/docs/assets/images/thinking.png) Thoughts from our Day
+### <img src="/docs/assets/images/thinking.png" height="60" alt=""> Thoughts from our Day
 * What are some literal and figurative things you have learned as consider the creation of Adam and Eve?
 * Do some Christian churches now believe Adam as solely figurative?  [Reality of Adam and Eve](https://catholicreview.org/catholic-church-has-evolving-answer-on-reality-of-adam-and-eve/)
 * What does church say about [Evolution?](https://abn.churchofjesuschrist.org/study/new-era/2016/10/to-the-point/what-does-the-church-believe-about-evolution?lang=eng&adobe_mc_ref=https%3A%2F%2Fwww.churchofjesuschrist.org%2Fstudy%2Fnew-era%2F2016%2F10%2Fto-the-point%2Fwhat-does-the-church-believe-about-evolution%3Flang%3Deng&adobe_mc_sdid=SDID%3D7698AF8E81A852D4-3361E03B41C9CDC2%7CMCORGID%3D66C5485451E56AAE0A490D45%2540AdobeOrg%7CTS%3D1642291789)  What do you say about evolution when asked?
